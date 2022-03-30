@@ -1,13 +1,13 @@
 bl_info = {
-    "name": "Arma: Toolbox",
+    "name": "Arma: Toolbox - Fork by Gustavo Martins",
     "description": "Collection of tools for editing RV Engine content",
     "author": "Hans-Joerg \"Alwarren\" Frieden.",
-    "version": (3, 1, 1),
+    "version": (3, 0, 5),
     "blender": (2, 80, 0),
     "location": "View3D > Panels",
     "warning": '',
-    "wiki_url": "https://github.com/AlwarrenSidh/ArmAToolbox/wiki",
-    "tracker_url": "https://github.com/AlwarrenSidh/ArmAToolbox/issues",
+    "wiki_url": "",
+    "tracker_url": "",
     "category": "3D View"}
 
 import sys, os
